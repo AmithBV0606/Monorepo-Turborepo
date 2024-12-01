@@ -109,6 +109,7 @@ button.secondary {
   background: transparent;
   border-color: var(--gray-alpha-200);
   min-width: 180px;
+  background-color: var(--button-secondary-hover);
 }
 
 .footer {
